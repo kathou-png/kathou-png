@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @kathou-png
-- 👀 I’m interested in web development
-- 📫 How to reach me : you can contact me @ cathytruong@protonmail.com 
-
-<!---
-kathou-png/kathou-png is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me : you can contact me at kathou.trg@protonmail.com 
